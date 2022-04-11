@@ -1,0 +1,49 @@
+Date Created:		11/21/2020 06:07:00 PM
+Date Modified:		11/19/2020 10:30:00 AM
+
+Camera Info
+Device:			Nikon D80
+Lens:			18-135mm f/3.5-5.6G
+Focal Length:		31mm / 48mm
+Focus Mode:		Manual
+AF-Area Mode:		
+
+Exposure
+Aperture:		f/4.5
+Shutter Speed:		1/40s:	, 
+			1/30s:	, 
+			1/25s:	, 
+			1/20s:	, 
+			1/15s:	, 
+			1/13s:	,  
+			1/10s:	, 
+			1/8s:	, 
+Exposure Mode:		Manual
+Exposure Comp.:		0EV
+Metering:		Matrix
+ISO Sensitivity:	ISO 100
+
+Image Settings
+White Balance:		Auto, 0
+Color Space:		Black-and-white
+High ISO NR:		OFF
+Long Exposure NR:	OFF
+
+Optimize Image
+Optimize Image:		Black-and-white
+Color Mode:		Black-and-white
+Tone Comp.:		Normal
+Hue Adjustment:
+Saturation:		Normal
+Sharpening:		Auto
+
+File format:		NEF
+File Size:		7.25 MB
+Image Size:		L (3872 x 2592)
+Image Quality:		Compressed RAW (12-bit)
+
+RAW to TIFF conversion
+Nikon ViewNX-i, ver. 1.4.2 64bit
+Bit-depth:		8bpp
+Image Size 1:		1095 x 1075
+Image size 2:		1095 x 1320
